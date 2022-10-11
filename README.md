@@ -21,12 +21,16 @@ First, we need a good, single homepage layout with a clean header, nav area, con
 footer you can has! 
 
 old golf **GO TO HIS PAGE FOR EXAMPLE LINKS**
+
 open up an external page in a modal: c/p exampele
+
 buid cards and links from data object (arraay): c/p exmaple
+
 build cards from json data object: c/p example
+
 bs5 dropdown c/p
-https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js
-jQ create a DOM element
+
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js -- jQ create a DOM element
 
 ---- 
 Min. Acceptance Criteria
