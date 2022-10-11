@@ -15,13 +15,12 @@ So that I can play games from different devs.
 ---- 
 
 Comments / Narrative
-in ECHO, we combined games into one repo/app
-in GOLF, we are gonna combine the ALL into one single REPO. Yikes. What could go wrong.
-First, we need a good, single homepage layout with a
-clean header, nav area
-content area: description + list of games
-footer
-you can has! old golf
+in ECHO, we combined games into one repo/app <br> 
+in GOLF, we are gonna combine the ALL into one single REPO. Yikes. What could go wrong.<br> 
+First, we need a good, single homepage layout with a clean header, nav area, content area: description + list of games footer
+you can has! 
+
+old golf
 open up an external page in a modal: c/p exampele
 buid cards and links from data object (arraay): c/p exmaple
 build cards from json data object: c/p example
@@ -31,13 +30,13 @@ jQ create a DOM element
 
 ---- 
 Min. Acceptance Criteria
- workin in teams...whoa...3 or 4 (not 5)
- each team make a single working app
- join a group for this on CNVS
- add in at least one "game" (like Charlie) from everyone
- put code/app somewhere's for cumbie to get it
- put your game stuff in a data file on your repo
- data goes to dom
+ workin in teams...whoa...3 or 4 (not 5) <br> 
+ each team make a single working app <br> 
+ join a group for this on CNVS <br> 
+ add in at least one "game" (like Charlie) from everyone <br> 
+ put code/app somewhere's for cumbie to get it <br> 
+ put your game stuff in a data file on your repo <br> 
+ data goes to dom <br> 
 @barrycumbie
 Author
 
