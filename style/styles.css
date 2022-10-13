@@ -3,12 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@600&display=swap');
 
 h1{
-  color:white;
+  color:purple;
   font-family: 'Gemunu Libre', sans-serif;
   font-variant: small-caps;
 }
 
 .navbar-brand {
+    color:purple;
   font-family: 'Oswald', sans-serif;
   font-weight: bold;
 }
