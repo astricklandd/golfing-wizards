@@ -6,11 +6,11 @@ $(function () {
     <div class="col-sm-5 mx-auto mt-1">
         <div class="card">
           <h2 class="card-title"> ${golfGames[index].author} </h2>
-          <div class="card-body"><h3>${golfGames[index].game}</h3></div>
+          <div class="card-body"><h3>Game Name: ${golfGames[index].game}</h3></div>
 
           <div class="card-footer">
-            <a class="btn btn-primary" href="${golfGames[index].url}" target="_blank">
-            go to game? ! 
+            <a class="btn btn-dark" href="${golfGames[index].url}" target="_blank">
+            Go have fun!
             </a>
           </div>
 
