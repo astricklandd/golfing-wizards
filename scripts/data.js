@@ -1,17 +1,161 @@
 const golfGames = [
   {
-    game: "something",
-    author: "someone",
-    url: "somewhere",
+    game: "Delta",
+    author: "Emily Tinnon",
+    url: "https://github.com/etinnon/cis376-delta",
   },
   {
-    game: "something2",
-    author: "someone2",
-    url: "somewhere2",
+    game: "Echo",
+    author: "Alex Strickland",
+    url: "https://astricklandd.github.io/echo-lab/",
   },
   {
-    game: "something3",
-    author: "someone3",
-    url: "somewhere4",
+    game: "Charlie",
+    author: "Hunter McGriff",
+    url: "https://hunter-mcgriff.github.io/dev-lab-charlie/",
   },
+  {
+    game: "Echo",
+    author: "Wes Wallace",
+    url: "https://westyler28.github.io/Echo-Lab/",
+  },
+  {
+    game: "Echo",
+    author: "Omonegho Ugheoke",
+    url: "https://ougheoke.github.io/echo-lab/",
+  },
+  // ----
+  {
+    game: "Charlie",
+    author: "Alec Moore",
+    url: "https://alecmo26.github.io/CharlieLab/",
+  },
+
+  {
+    game: "Alpha",
+    author: "Kathryn Grant",
+    url: "https://codepen.io/katherynisabell/full/WNzWGNd",
+  },
+
+  {
+    game: "Echo",
+    author: "Lane Schmidt",
+    url: "https://lane30schmidt.github.io/echo-376/",
+  },
+
+  {
+    game: "Echo",
+    author: "Nicole Reilly",
+    url: "https://nicolereilly.github.io/echo-lab/",
+  },
+
+  {
+    game: "Delta",
+    author: "Ethan Hubbard",
+    url: "https://hubbbabubbba.github.io/Delta-Lab-Name-Wow/",
+  },
+
+  {
+    game: "Echo",
+    author: "Ashlyn Paruzynski-",
+    url: "https://ashmcflash.github.io/echo-lab/",
+  },
+
+  {
+    game: "Delta",
+    author: "Ethan Criddle",
+    url: "https://stalewhitebread.github.io/urban-invention/",
+  },
+  {
+    game: "Echo",
+    author: "Kevin Salgado",
+    url: "https://kbrian5.github.io/solid-octo-happiness/",
+  },
+
+  {
+    game: "Echo",
+    author: "Kristina Williams",
+    url: "https://kwilliams31.github.io/Echo-Cool-Games/",
+  },
+
+  {
+    game: "Echo",
+    author: "Meghan Skelton",
+    url: "https://mskel1.github.io/sturdy-rotary-phone/",
+  },
+
+  {
+    game: "Delta",
+    author: "Elijah Aday",
+    url: "https://eaday22.github.io/delta_Lab/",
+  },
+
+  {
+    game: "Delta",
+    author: "Chhavi Chhav",
+    url: "https://viii21.github.io/dob-facts/",
+  },
+
+  {
+    game: "Delta",
+    author: "Hau Huynh",
+    url: "https://hauhuynh90.github.io/Delta/",
+  },
+
+  {
+    game: "Echo",
+    author: "Cody McDonald",
+    url: "https://nutenjoyer.github.io/miniature-winner",
+  },
+
+  {
+    game: "Delta",
+    author: "Ethan Rinkle",
+    url: "https://crimsonhog.github.io/probable-octo-carnival/",
+  },
+// NEED THESE PEOPLE 
+  {
+    game: "Game",
+    author: "Garrett Dodd",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Rishi Doreswamy",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Hardik Gupta",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Maggie Little",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Zachary Newell-",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Tychicus Thomas",
+    url: "needed",
+  },
+
+  {
+    game: "Game",
+    author: "Rachel Thompson",
+    url: "needed",
+  },
+
+
+  
 ];
