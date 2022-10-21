@@ -113,49 +113,50 @@ const golfGames = [
     author: "Ethan Rinkle",
     url: "https://crimsonhog.github.io/probable-octo-carnival/",
   },
-// NEED THESE PEOPLE 
+  
   {
-    game: "Game",
+    game: "Bravo",
     author: "Garrett Dodd",
-    url: "needed",
+    url: "https://garrettdodd.tech/CIS-376/BRAVO_LAB/index.html",
   },
 
   {
-    game: "Game",
+    game: "Charlie",
     author: "Rishi Doreswamy",
-    url: "needed",
+    url: "https://rish4863.github.io/doge-game/",
   },
 
+  {
+    game: "Delta",
+    author: "Maggie Little",
+    url: "https://mlittle98.github.io/DELTALAB/ ",
+  },
+
+  {
+    game: "Echo",
+    author: "Zachary Newell-",
+    url: "https://github.com/Almostheaven52/Echo-Lab",
+  },
+
+  {
+    game: "Delta",
+    author: "Tychicus Thomas",
+    url: "https://tythomas21.github.io/delta/",
+  },
+
+  {
+    game: "Bravo",
+    author: "Rachel Thompson",
+    url: "https://github.com/panhead63/bravo/tree/main ",
+  },
+
+// NEED THIS PERSON  
+  
   {
     game: "Game",
     author: "Hardik Gupta",
     url: "needed",
   },
-
-  {
-    game: "Game",
-    author: "Maggie Little",
-    url: "needed",
-  },
-
-  {
-    game: "Game",
-    author: "Zachary Newell-",
-    url: "needed",
-  },
-
-  {
-    game: "Game",
-    author: "Tychicus Thomas",
-    url: "needed",
-  },
-
-  {
-    game: "Game",
-    author: "Rachel Thompson",
-    url: "needed",
-  },
-
 
   
 ];
