@@ -135,7 +135,7 @@ const golfGames = [
   {
     game: "Echo",
     author: "Zachary Newell-",
-    url: "https://github.com/Almostheaven52/Echo-Lab",
+    url: "https://almostheaven52.github.io/Echo-Lab/",
   },
 
   {
@@ -147,7 +147,7 @@ const golfGames = [
   {
     game: "Bravo",
     author: "Rachel Thompson",
-    url: "https://github.com/panhead63/bravo/tree/main ",
+    url: "panhead63.github.io/bravo/",
   },
 
 // NEED THIS PERSON  
