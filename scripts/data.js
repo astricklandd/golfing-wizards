@@ -2,7 +2,7 @@ const golfGames = [
   {
     game: "Delta",
     author: "Emily Tinnon",
-    url: "https://github.com/etinnon/cis376-delta",
+    url: "https://etinnon.github.io/cis376-delta/",
   },
   {
     game: "Echo",
